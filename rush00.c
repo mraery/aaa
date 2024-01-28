@@ -70,8 +70,4 @@ void rush (int x, int y)
         if(y > 1)
             last_line(x, y);
     }
-    ft_putchar('\n');
-    ft_putchar('\n');
-    ft_putchar('\n');
-
 }
